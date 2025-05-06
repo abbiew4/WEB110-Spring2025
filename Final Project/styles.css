@@ -1,0 +1,117 @@
+* {box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;}
+
+header {text-align: center}
+
+.wrapper {max-width: 100%;
+    margin:auto;
+    background-color:#a7d0fc;}
+
+body {font-family:'Cooper BT', serif;
+    background-color: #a7d0fc;
+    color: #529dde;
+    text-align: left;}
+
+h1 {text-align: center;
+    font-size: 5em;}
+
+h2 {text-align: center;
+    font-size: 2.5em;
+    color:black;}
+
+h3 {text-align: center;
+    font-size: 2.5em;}
+
+h4 {text-align:left; 
+    font-size: 1.9em;
+    margin-left: 3%}
+
+ol {text-align:left;
+    font-size: 1.75em;
+    color: black;   
+    padding: 10px;
+    margin-left: 0%;
+    margin-right: 3%}
+
+li {text-align:left;
+    font-size: 1.75em;
+    color:#529dde;
+    padding:10px;
+    margin-left:5%}
+
+ul {text-align:left;
+    font-size: .75em;}
+
+p {font-size: 1.75em;
+    text-align: left;
+    color:black;
+    margin-left:3%}
+
+nav ul {list-style: none;
+        padding: 1.5%;
+        background-color: #225ca8;
+        text-align: center}
+
+nav ul li {display: inline;
+            margin-top: 0;
+            margin-bottom: 0;
+            margin-left: 1.5%;
+            margin-right: 1.5%;
+            text-align: center}
+
+nav a {color: white;
+        text-decoration: none;
+        font-size: 1em;
+        letter-spacing: .2em;
+        text-align:center}
+
+nav a:visited {color: white;}
+
+.scrunchie-image {margin-left: 10%;
+                max-width: 75%}
+
+.material-image {max-width: 45%;
+                float: right;
+                margin-right: 3%;}
+
+.cut-image {max-width: 50%;
+            margin-left: 3%}
+
+.sewn-image {max-width: 50%;
+            margin-left: 3%}
+
+.burrito-image {max-width: 50%;
+            margin-left: 3%}
+
+.pulled-image {max-width: 50%;
+            margin-left: 3%}
+
+.turn-image {max-width: 50%;
+            margin-left: 3%}
+
+.threaded-image {max-width: 50%;
+                margin-left: 3%}
+.topstitch-image {max-width: 50%;
+                 margin-left: 3%}
+.finished-image {max-width: 50%;
+                margin-left: 3%}
+
+.form-image {max-width: 30%;
+            margin-top: 3em;
+            margin-left: 35%}
+
+.credit-image {max-width: 40%;
+            margin-top: 3em;
+            margin-left: 30%}
+
+.form {position: center;
+    display: block;
+    margin-left: 30%;
+    margin-right: 25%;
+    max-width: 20em}
+
+footer { padding: 10px;
+    background-color: #225ca8;
+    text-align: center;
+    color: white;}
